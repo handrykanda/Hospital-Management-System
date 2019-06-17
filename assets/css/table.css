@@ -1,0 +1,24 @@
+th {
+    border-collapse: collapse;
+    padding: 10px;
+    font-family: "Times New Roman", Times, serif;
+    color: #50d8af;
+}
+
+ td {
+    color: #0c2e8a;text-indent: 10px;font-family: "Times New Roman", Times, serif;cursor: pointer;
+}
+#headings > td {
+    color: #50d8af; padding-bottom: 5px;padding-top: 5px; font-family: "Times New Roman", Times, serif;font-size: 20px;
+}
+
+td#sl {
+    color: #50d8af;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+td.s {
+    color: #0c2e8a;text-align: center;font-family: "Times New Roman", Times, serif; font-size: 15px;cursor: pointer;
+}
